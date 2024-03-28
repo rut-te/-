@@ -1,0 +1,70 @@
+.openingString{
+    font-size: 3vw;
+    color:#433240d2;
+    align-self: center;
+}
+
+.userNameTitle{
+    font-size: 4.5vw;
+    margin-top: 20vh;
+    margin-bottom: 8vh;
+}
+
+h1{
+    margin-left: 27vw;
+}
+
+.users{
+    margin-top: 5vh;
+    margin-left: 25vw;
+    margin-bottom: 5vh;
+}
+
+.usersOperations{
+    margin-left: 35vw;
+}
+
+.whatToSearch{
+    height: 3.5vh;
+    width: 20vw;
+
+}
+
+.title{
+    width: 40vw;
+}
+
+.info{
+    min-height: 50vh;
+    width: 70vw;
+    background-color:  rgba(240, 248, 255, 0.298);
+    align-self: center;
+    align-items: center;
+    padding: 3vw;
+    margin-left: 12vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.closeInfo{
+    margin-left: 35vw;
+    margin-bottom: 3vh;
+}
+
+.userInfo{
+    margin-top: 2vh;
+    margin-left: 10vw;
+    align-items: center;
+}
+
+.didntFind{
+    margin-left: 17vw;
+}
+
+.userInfoDives{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 10vw;
+}

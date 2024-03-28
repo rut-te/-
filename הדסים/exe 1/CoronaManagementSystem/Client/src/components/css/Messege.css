@@ -1,0 +1,9 @@
+.messege{
+    position: fixed;
+    background-color: rgba(183, 179, 179, 0.291);
+    border-radius: 5%;
+    left: 2vw;
+    margin-top: 2vh;
+    padding: 1vh;
+    align-items: center;
+}

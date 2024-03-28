@@ -1,0 +1,4 @@
+﻿  Triangular.cpp
+C:\Users\Ruti\Documents\לימודים\הדסים\exe 2\Twitter Towers\Twitter Towers\Triangular.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ruti\Documents\לימודים\הדסים\exe 2\Twitter Towers\Twitter Towers\Triangular.cpp(28,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Twitter Towers.vcxproj -> C:\Users\Ruti\Documents\לימודים\הדסים\exe 2\Twitter Towers\x64\Debug\Twitter Towers.exe
